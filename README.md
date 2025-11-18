@@ -4,6 +4,10 @@ SPDX-FileCopyrightText: 2023 Jeff Epler
 SPDX-License-Identifier: MIT
 -->
 
+# Intent to migrate to codeberg
+
+Before the next stable release, textual-totp will be migrated to codeberg: https://codeberg.org/jepler/textual-totp
+
 # textual-totp: TOTP (authenticator) application using Python & Textual
 
 ![ttotp in action](https://raw.githubusercontent.com/jepler/textual-totp/main/ttotp.png)
